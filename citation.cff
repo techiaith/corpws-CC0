@@ -18,12 +18,17 @@ authors:
     email: g.prys@bangor.ac.uk
     affiliation: Bangor University Language Technologies Unit
     orcid: 'https://orcid.org/0000-0002-2910-2460'
+  - given-names: Dewi Bryn
+    orcid: 'https://orcid.org/0000-0003-1263-6332'
+    family-names: Jones
+    email: d.b.jones@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
   - given-names: Gareth Llewellyn
     orcid: 'https://orcid.org/0000-0001-8929-0718'
     family-names: Watkins
     email: g.watkins@bangor.ac.uk
     affiliation: Bangor University Language Technologies Unit
-notes: "Delyth Prys - Cyfraniad ieithyddol/Linguistic contribution, Gareth Watkins - Cyfraniad ieithyddol/Linguistic contribution, Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
+notes: "Delyth Prys - Cyfraniad ieithyddol/Linguistic contribution, Gareth Watkins - Cyfraniad ieithyddol/Linguistic contribution, Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution, Dewi Bryn Jones  - Cyfraniad technegol/Technical contribution"
 url: 'https://github.com/techiaith/corpws-CC0'
 abstract: >-
   Corpws o frawddegau o destun Cymraeg wedi'u
