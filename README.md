@@ -1,5 +1,7 @@
 [English below](#cc0-corpus)
 
+[![DOI](https://zenodo.org/badge/346408094.svg)](https://zenodo.org/badge/latestdoi/346408094)
+
 # Corpws CC0
 Dyma gorpws o frawddegau o destun Cymraeg wedi'u trwyddedu o dan drwydded CC0. Ar hyn o bryd, mae'r corpws yn cynnwys bron i 20,000 o frawddegau dros 180,000 o docynnau, a'r bwriad yw parhau i'w gynyddu wrth i ni gael gafael ar destunau o dan y drwydded briodol. Bwriad y corpws hwn y galluogi hyfforddi modelau iaith Cymraeg ar gyfer sawl diben gwahanol.
 
